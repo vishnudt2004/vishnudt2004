@@ -22,6 +22,9 @@
   <a href="https://leetcode.com/vishnud2004/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=000000" height="35" />
   </a>
+  <a href="https://www.hackerrank.com/profile/vishnu_d_t_2004">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white&labelColor=000000" height="35" />
+  </a>
   <a href="mailto:vishnu.d.t.2004@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" height="35" />
   </a>
@@ -44,7 +47,14 @@
   - Built a web page in 45 mins using provided images without internet. Won among ~25 teams.
 
 - 🥇 1st Place – Logo Design, Department Function @ _Govt. Arts & Science College, Komarapalayam_, 2022
+
   - Won during the 75th Independence Day celebration. Prize: Abdul Kalam biography book.
+
+- 📜 HackerRank Certifications (back-to-back) – 2025
+
+  - JavaScript (Basic)
+  - React (Basic)
+  - CSS (Basic)
 
 ## 🔍 Interests
 
