@@ -129,14 +129,20 @@
 
 <div>
 
+  <!-- GitHub Streak Stats -->
+  <!-- <img src="https://streak-stats.demolab.com?user=vishnudt2004&theme=nord&hide_border=true&border_radius=0&short_numbers=true" alt="GitHub Streak" /> -->
+
   <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=vishnudt2004&show_icons=true&theme=nord" height="160px" />
-  
+
   <!-- LeetCode Stats -->
   <img src="https://leetcard.jacoblin.cool/vishnud2004?theme=nord&font=JetBrains+Mono&ext=contest" height="160px" />
-  
-  <!-- Top Languages -->
+
+  <!-- GitHub Top Languages -->
   <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishnudt2004&layout=compact&theme=nord" width="400px" /> -->
+
+  <!-- GitHub Contribution Graph -->
+  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=vishnudt2004&theme=nord" /> -->
 
 </div>
 
