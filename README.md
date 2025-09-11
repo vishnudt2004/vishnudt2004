@@ -187,6 +187,10 @@ Here's a showcase of some of my projects:
 
 ---
 
-<p align="center"><b>Thanks for visiting my profile! Always open to collaborations 🚀</b></p>
+<div align="center">
+ <b>Thanks for visiting my profile! Always open to collaborations 🚀</b>
+ <br>
+ <span>• • •</span>
+</div>
 
 ---
