@@ -1,8 +1,8 @@
 <div align="center">
 
-# Hello <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Food/Clinking%20Beer%20Mugs.png" alt="Clinking Beer Mugs" width="50" height="50" />, I'm Vishnu D
+# Hello! I'm Vishnu D.
 
-### Full-Stack Developer | React/Next.js Enthusiast | Creator of SUIC - Simple UI Components
+### Full-Stack Developer building React & Next.js apps and reusable UI systems focused on maintainability and DX.
 
 <br>
 
@@ -65,58 +65,55 @@
 
 ## 📌 About Me
 
-Hey there! I'm Vishnu, a self-taught `Full-Stack Developer` passionate about crafting web experiences with **React, Next.js**, and other modern web tools. My goal is to build applications and tools that are not only <ins>clean</ins> and <ins>maintainable</ins> but also provide a <ins>smooth</ins> and <ins>enjoyable experience</ins> for developers through well-crafted documentation and reusable components. 💻✨
+I'm a **Full-Stack Developer** focused on **React, Next.js, and TypeScript**, building scalable web applications with clean architecture, reusable UI systems, and long-term maintainability in mind.
 
-- Self-taught **MERN stack & Next.js developer** passionate about building **reusable, real-world web apps**.
-- I'm currently dedicating my time to enhancing [**SUIC - Simple UI Components**](https://suic-docs.vercel.app/). It's a project close to my heart! ❤️
-- Enjoy exploring **web development patterns, automation, and problem-solving**.
-- My code mantra: **clean and modular**. In UI development, I prefer **minimalism** over excessive fancy design.
-- **M.Sc. Computer Science** @ _Govt. Arts & Science College – KPM_ (Ongoing)
+**Core Stack**  
+**Frontend**: React, Next.js, TypeScript, Tailwind CSS  
+**Backend**: Node.js, Express, MongoDB, PostgreSQL
 
-> “Build. Learn. Repeat.” 💻🧠🔥
+- Built **SUIC (Simple-UI Components)** — a local-first UI system with CLI-based installation inspired by shadcn/ui, focused on modular architecture and developer workflow efficiency.
+- Design REST APIs with a structured backend architecture, emphasizing scalability and maintainability.
+- Continuously refine project structure, documentation clarity, and reusable component patterns across repositories.
 
 <br>
 <br>
 
 ## 🚀 Projects
 
-Here's a showcase of some of my projects:
+Here are selected projects:
 
-| Project                           | Description                                                                                                                          | Links                                                                                                       |
-| --------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------------------------------- |
-| **SUIC - Simple UI Components**   | Lightweight, reusable React/Next.js components with CLI installation and documentation system. Get started with: `npx suic-cli`      | [Docs](https://suic-docs.vercel.app/) / [GitHub](https://github.com/vishnudt2004/suic-core)                 |
-| **Globblog - Blog application**   | A full-featured blog application built with the MERN stack, allowing users to create and manage posts, and customize their profiles. | [Live](https://globblog.vercel.app/) / [GitHub](https://github.com/vishnudt2004/globblog)                   |
-| **Personal Portfolio - Vishnu D** | A personal portfolio website showcasing my skills, projects, and journey as a developer.                                             | [Live](https://portfolio-vishnud.vercel.app/) / [GitHub](https://github.com/vishnudt2004/portfolio-vishnud) |
+| Project                           | Description                                                                                                                         | Links                                                                                                       |
+| --------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------- |
+| **SUIC - Simple UI Components**   | Lightweight, reusable React/Next.js components with CLI installation and documentation system. Get started with: `npx suic-cli`     | [Docs](https://suic-docs.vercel.app/) / [GitHub](https://github.com/vishnudt2004/suic-core)                 |
+| **Globblog - Blog application**   | A full-featured blog application built with the MERN stack, allowing users to create and manage posts and customize their profiles. | [Live](https://globblog.vercel.app/) / [GitHub](https://github.com/vishnudt2004/globblog)                   |
+| **Personal Portfolio - Vishnu D** | A personal portfolio website showcasing my skills, projects, and journey as a developer.                                            | [Live](https://portfolio-vishnud.vercel.app/) / [GitHub](https://github.com/vishnudt2004/portfolio-vishnud) |
 
 - ### SUIC - Simple UI Components
-
   - <details>
     <summary><b>Screenshot</b> (Hero section)</summary>
       <br>
       <img src="./assets/images/projects/suic.png" alt="SUIC - Simple UI Components" width="800"/>
     </details>
 
-  - **Technologies Used:** Next.js, TypeScript, MDX, Tailwind CSS, Framer Motion, React.js, Node.js, and more!
+  - **Technologies Used:** Next.js, TypeScript, MDX, Tailwind CSS, Framer Motion, React, Node.js, and more!
 
 - ### Globblog - Blog application
-
   - <details>
     <summary><b>Screenshot</b> (Hero section)</summary>
       <br>
       <img src="./assets/images/projects/globblog.png" alt="Globblog - Blog application" width="800"/>
     </details>
 
-  - **Technologies Used:** React.js, Node.js, Express.js, MongoDB, Redux, Mongoose, Quill.js, JWT, Google OAuth2.0, React Router DOM, Styled Components
+  - **Technologies Used:** React, Node.js, Express, MongoDB, Redux, Mongoose, Quill.js, JWT, Google OAuth 2.0, React Router, Styled Components
 
 - ### Personal Portfolio - Vishnu D
-
   - <details>
     <summary><b>Screenshot</b> (Hero section)</summary>
       <br>
       <img src="./assets/images/projects/portfolio-vishnud.png" alt="Personal Portfolio - Vishnu D" width="800"/>
     </details>
 
-  - **Technologies Used:** React.js, Tailwind CSS, Framer Motion
+  - **Technologies Used:** React, Tailwind CSS, Framer Motion
 
 <br>
 <br>
@@ -144,24 +141,29 @@ Here's a showcase of some of my projects:
 
 ## 🎓 Education
 
-- ### Bachelor of Science in Computer Science — 2021–2024 @ _Government Arts and Science College - Komarapalayam (Aff. Periyar University, Salem)_
+- ### B.Sc. in Computer Science (2021–2024)
 
-  - Graduated with First Class, A+ Grade. 🏆
+  Government Arts and Science College, Komarapalayam  
+  Affiliated to Periyar University, Salem  
+  CGPA: 6.7 / 10 — First Class (A+)
 
-- ### Master of Science in Computer Science — 2024–Present @ _Government Arts and Science College - Komarapalayam (Aff. Periyar University, Salem)_
+- ### M.Sc. in Computer Science (2024–2026)
 
-<br>
+  Government Arts and Science College, Komarapalayam  
+  Affiliated to Periyar University, Salem
+
+<!-- <br>
 <br>
 
 ## 📊 GitHub Stats & Activity
 
 <div>
 
-- **GitHub Stats**:  
+- **GitHub Stats**:
   <br>
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vishnudt2004&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true)
 
-<!-- - **Top Languages**:
+- **Top Languages**:
   <br>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vishnudt2004&layout=compact&theme=tokyonight&langs_count=10)
 
@@ -175,11 +177,11 @@ Here's a showcase of some of my projects:
 
 - **LeetCode Stats**:
   <br>
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/vishnud2004?theme=nord&font=JetBrains+Mono&ext=contest) -->
+  ![LeetCode Stats](https://leetcard.jacoblin.cool/vishnud2004?theme=nord&font=JetBrains+Mono&ext=contest)
 
 - [My Open Source Contributions](https://my-open-source-contributions.vercel.app/vishnudt2004)
 
-</div>
+</div> -->
 
 <br>
 <br>
@@ -188,9 +190,11 @@ Here's a showcase of some of my projects:
 ---
 
 <div align="center">
- <b>Thanks for visiting my profile! Always open to collaborations 🚀</b>
- <br>
- <span>• • •</span>
+  <p><b>Thanks for visiting.</b></p>
+  <p>
+    <a href="https://portfolio-vishnud.vercel.app/">Portfolio</a> • 
+    <a href="mailto:vishnu.d.t.2004@gmail.com">Email</a>
+  </p>
 </div>
 
 ---
