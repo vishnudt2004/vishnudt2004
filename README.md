@@ -13,7 +13,7 @@
     <img alt="email" src="./assets/icons/social/email_light.svg" width="95" />
  </picture>
 </a>
-<a href="https://vishnudt2004.github.io/vishnud-resume/vishnud-resume.pdf">
+<a href="https://vishnudt2004.github.io/vishnud-resume/vishnud-resume-fullstack.pdf">
  <picture>
     <source media="(prefers-color-scheme: dark)" srcset="./assets/icons/social/resume_dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="./assets/icons/social/resume_light.svg" />
